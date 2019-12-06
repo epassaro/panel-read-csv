@@ -1,0 +1,6 @@
+numpy==1.16
+pandas==0.24
+matplotlib==3.1
+jupyter==1.0
+bokeh==1.4
+panel==0.7 
